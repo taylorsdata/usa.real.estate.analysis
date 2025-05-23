@@ -3,7 +3,7 @@ Creator: Taylor Simone Haynes
 Email: taylorsimonewomanist@gmail.com
 
 📌 Project Overview
-This project simulates the role of a land data analyst by evaluating off-market land across U.S. counties. Inspired by real-world pricing work at companies like Dirt for Dollars (DFD), I built a comparative pricing report and interactive dashboard that highlights trends in land value, informs offer strategies, and supports data-driven acquisition decisions.
+This project simulates the role of a land data analyst by evaluating off-market land across U.S. counties. Inspired by real-world pricing work at investment companies, I built a comparative pricing report and interactive dashboard that highlights trends in land value, informs offer strategies, and supports data-driven acquisition decisions.
 
 Using comps (comparable property sales), I created offer ranges based on factors like acreage, access, and location. The project demonstrates my ability to transform raw real estate data into clear, actionable insights.
 
